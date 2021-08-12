@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analyst Portfolio on Bipin Kumaar</title>
+    <link>https://bipinxw.github.io/portfolio/</link>
+    <description>Recent content in Data Analyst Portfolio on Bipin Kumaar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://bipinxw.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Green Destinations - HR Analytics</title>
+      <link>https://bipinxw.github.io/portfolio/posts/project1/</link>
+      <pubDate>Fri, 11 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://bipinxw.github.io/portfolio/posts/project1/</guid>
+      <description>Green Destinations - HR Analytics    Green Destinations is a well known travel agency. The HR Director has recently noticed an increase in employees leaving attrition . She would like to figure out any trends or patterns based on a dashboard that is built for her.  Project link</description>
+    </item>
+    
+    <item>
+      <title>Project 2: DiscountMart - Sales Analytics</title>
+      <link>https://bipinxw.github.io/portfolio/posts/project2/</link>
+      <pubDate>Fri, 25 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://bipinxw.github.io/portfolio/posts/project2/</guid>
+      <description>DiscountMart - Sales Analytics    Discount Mart is a small supermarket. The owner wants a dashboard where he can track how well Discount Mart is doing for this year in terms of Sales, Profit and Quantity Sold.  Tableau Link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bipinxw.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bipinxw.github.io/portfolio/contact/</guid>
+      <description>If you&amp;rsquo;d like to know more, then let&amp;rsquo;s have a talk! :)
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
